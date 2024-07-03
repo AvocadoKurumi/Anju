@@ -1,6 +1,6 @@
 extends Sprite2D
 
-var speed = 300 #300 pixels per second
+var speed = 1200 #300 pixels per second
 
 # Called when the node enters the scene tree for the first time.
 func _ready():
